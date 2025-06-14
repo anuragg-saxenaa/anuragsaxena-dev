@@ -52,7 +52,7 @@ const Hero = () => {
 
           <div className="flex justify-center space-x-6">
             <a
-              href="https://github.com/anuragsaxena"
+              href="https://github.com/anuragg-saxenaa"
               target="_blank"
               rel="noopener noreferrer"
               className="text-muted-foreground hover:text-primary transition-colors hover-scale p-3 rounded-lg hover:bg-muted/30"
@@ -60,7 +60,7 @@ const Hero = () => {
               <Github size={28} />
             </a>
             <a
-              href="https://linkedin.com/in/anuragsaxena"
+              href="https://www.linkedin.com/in/anuragsaxenaa/"
               target="_blank"
               rel="noopener noreferrer"
               className="text-muted-foreground hover:text-primary transition-colors hover-scale p-3 rounded-lg hover:bg-muted/30"
